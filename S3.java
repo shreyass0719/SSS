@@ -9,3 +9,5 @@ public class S3{
     System.out.println("ans is"+ans1);
     System.out.println("ans is"+ans2);
     System.out.println("ans is"+ans3);
+  }
+}
